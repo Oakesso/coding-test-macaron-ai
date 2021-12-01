@@ -1,4 +1,5 @@
-# coding-test :  Application de recensement des lieux de tournages à Paris
+# Application de recensement des lieux de tournages à Paris
+# Coding Test :  
 
 Dans notre processus de recrutement nous faisons passer un test technique, pour évaluer 
 vos compétences, et voir quel est votre potentiel au sein de notre entreprise.
