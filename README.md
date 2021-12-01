@@ -12,8 +12,8 @@ avec les explications sur comment lancer le projet.
 L'objectif n'est pas de rendre un projet parfait, mais surtout de nous montrer ce que vous 
 avez appris jusqu'à présent, donc n'hésitez pas à utiliser toutes les compétences que vous avez acquises.
 
-Application de recensement des lieux 
-de tournages à Paris
+# Application de recensement des lieux 
+# de tournages à Paris
 
  
 # Prérequis
